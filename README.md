@@ -22,5 +22,7 @@ The main thing is ease of use on the phone. As an example, I would take the orig
 # Alternatives
 - [GitJournal - Markdown Notes In](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal)
 
-- [gluestack UI](https://gluestack.io/)
+- [GlueStack UI](https://gluestack.io/)
+- [GlueStack Style](https://gluestack.io/style)
+- [NativeBase to GlueStack Motivation](https://nativebase.io/blogs/road-ahead-with-gluestack-ui)
 - [Vite + React Native](https://gist.github.com/insertish/9cca9b6aa75a7cf34d050368d067ecf5)
